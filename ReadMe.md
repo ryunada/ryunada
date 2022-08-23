@@ -4,4 +4,4 @@ seungho
 <a href="http://www.w3.org/2000/svg" target="_blank"><img src="https://img.shields.io/badge/Python-배경색?style=plastic&logo=appveyor&logoColor=red"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadaryu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryunada&show_icons=true&theme=radical)
