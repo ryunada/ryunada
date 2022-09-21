@@ -3,6 +3,8 @@ seungho
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White"/>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=simpleiconsPython&logoColor=white"/></a>&nbsp 
+
 <img alt="Python" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryunada&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
