@@ -1,5 +1,5 @@
 seungho  
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=To%20Become%20a%20DataScientist&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=To%20Become%20a%20DataScientist&fontSize=68)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
