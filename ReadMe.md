@@ -33,7 +33,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=3371B3)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F3E050)&nbsp;
   
-  <a href="http://ryunada.github.io" target="_blank"><img src="https://img.shields.io/badge/github-White?style=flat-square&logo=git&logoColor=red"/></a>
+  <a href="http://ryunada.github.io" target="_blank"><img src="https://img.shields.io/badge/http://ryunada.github.io-white?style=flat-square&logo=git&logoColor=Red"/></a>
   <p></p>
 
 </div>
