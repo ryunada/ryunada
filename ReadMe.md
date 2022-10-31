@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=To%20Become%20a%20DataScientist&fontSize=65)  
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=spur-quote)
-  ###  &nbsp; My Analytics
 
+  ###  &nbsp; My Analytics
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=spur-quote)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryunada&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryunada&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
