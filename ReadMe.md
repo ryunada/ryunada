@@ -33,7 +33,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F3E050)&nbsp;
   
   <a href="http://ryunada.github.io" target="_blank">
-<!--     <img src="https://img.shields.io/badge/http://ryunada.github.io-white?style=flat-square&logo=git&logoColor=Red"/ > -->
+    <img src="https://img.shields.io/badge/http://ryunada.github.io-white?style=flat-square&logo=git&logoColor=Red"/ >
   </a>
   
 
