@@ -11,6 +11,13 @@
 
   ### &nbsp; Tech Stack
   <p></p>
+
+  ***Machine Learning***
+  ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=4672A1)&nbsp;
+
+  ***Deep Learning***
+  ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=4672A1)&nbsp;
+  Tensorflow
   
   ***Big Data Analytic***　
   ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=4672A1)&nbsp;
