@@ -44,7 +44,8 @@
   </a>
   
   <a href="http://ds-nada.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/'http://ds\-nada.tistory.com'-white?style=flat-square&logo=git&logoColor=Red"/ >
+    <img src="https://img.shields.io/badge/'http://ds-nada.tistory.com'-white?style=flat-square&logo=git&logoColor=Red"/ >
+    <img src="'http://ds-nada.tistory.com'-white?style=flat-square&logo=git&logoColor=Red"/ >
   </a>
   
 
